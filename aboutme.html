@@ -13,12 +13,12 @@
     <script>
 		function change1() {
   			document.getElementById("pic").src = "mountain.jpg";
-  			document.getElementById("h2text").innerText = "靜宜資管";
+  			document.getElementById("h2text").innerText = "LSP";
 		}
 
 		function change2() {
   			document.getElementById("pic").src = "cliff.jpg";
-  			document.getElementById("h2text").innerText = "LSP";
+  			document.getElementById("h2text").innerText = "靜宜資管";
 		}
 	</script>
 </head>
@@ -54,7 +54,7 @@
 			<td>
 				按下去就知道啦！<br>
 			    <audio controls>
-			        <source src="Rick Astley - Never Gonna Give You Up.wav" type="audio/wav">
+			        <source src="Rick Astley - Never Gonna Give You Up.mp3" type="audio/mp3">
 			    </audio><br>
 			</td>
 
